@@ -1,10 +1,10 @@
 # Site settings
-title: courses.eddierangel.com
+title: EddieRangel dot com
 header-img: img/home-bg.jpg
 email: hacker@eddierangel.com
 description: "...a witty subtitle"
 baseurl: ""
-url: "courses.eddierangel.com"
+url: "eddierangel.com"
 twitter_username: eddie_31003
 github_username:  eddierangel
 linkedin_username: eddierangel
@@ -20,4 +20,4 @@ gems: [jekyll-paginate]
 analytics :
 provider : google
 google : 
-tracking_id : 'UA-47781516-4'
+tracking_id : 'UA-47781516-1'
